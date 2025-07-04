@@ -1,0 +1,9 @@
+LangChain is a framework designed to help developers build applications powered by language models. It provides tools and abstractions for working with large language models like GPT-4.
+
+One of the core challenges in using LLMs is managing the context window — models can only take in a limited number of tokens. LangChain solves this by offering tools like document loaders, text splitters, and memory modules.
+
+Text splitters are particularly useful when working with long documents. They break down text into chunks that fit within the LLM’s context window, optionally with overlapping content for continuity.
+
+LangChain also supports retrieval-based question answering (RAG), where external documents are converted into embeddings, stored in a vector database, and queried based on similarity to a user's question.
+
+With LangChain, developers can build chatbots, summarization tools, document Q&A apps, and more — all with minimal boilerplate.

@@ -1,0 +1,12 @@
+langchain
+ipykernel
+python-dotenv
+langchain-community
+pypdf
+beautifulsoup4 
+html2text
+arxiv 
+pymupdf
+tiktoken
+spacy
+html2text
