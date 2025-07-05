@@ -10,3 +10,4 @@ pymupdf
 tiktoken
 spacy
 html2text
+faiss-cpu

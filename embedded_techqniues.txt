@@ -1,0 +1,19 @@
+LangChain is a framework designed to simplify the development of applications that utilize large language models (LLMs). It enables developers to chain together various components such as prompt templates, document loaders, vector stores, and retrieval mechanisms.
+
+Key Features:
+- Integration with multiple LLMs including OpenAI, Anthropic, and Hugging Face models.
+- Support for Retrieval-Augmented Generation (RAG) workflows.
+- Built-in document loaders for PDFs, web pages, markdown, HTML, CSV, and more.
+- Customizable memory, tool usage, and agent behavior.
+
+LangChain also provides a flexible abstraction for working with document chunks and embeddings, which is essential for building efficient retrieval systems. By splitting long texts into smaller chunks and embedding them into vector space, users can perform semantic search and answer generation more effectively.
+
+Common Use Cases:
+1. Chatbots that answer questions over custom datasets.
+2. Automated document summarization.
+3. Semantic search engines.
+4. Multi-step reasoning agents.
+
+LangChain continues to evolve as new models and tools emerge, making it a powerful toolkit for anyone working in the LLM application space.
+
+Mount Everest is the tallest mountain
