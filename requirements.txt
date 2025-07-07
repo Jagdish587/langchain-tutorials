@@ -11,3 +11,6 @@ tiktoken
 spacy
 html2text
 faiss-cpu
+langchain-huggingface
+sentence-transformers
+chromadb
